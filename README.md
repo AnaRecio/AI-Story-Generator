@@ -9,7 +9,7 @@ An interactive web app that generates **creative stories and text responses** us
 - **Interactive UI**: Built with Streamlit for an easy-to-use interface.
 
 ## 🚀 Try It Live!
-🔗 **[Live App on Streamlit](https://YOUR-STREAMLIT-URL.streamlit.app/)**
+🔗 **[Live App on Streamlit](https://ai-powered-story-generator.streamlit.app/)**
 
 ## 📦 Installation
 Clone this repository:
